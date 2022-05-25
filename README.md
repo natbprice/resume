@@ -1,12 +1,13 @@
 
 # Nathaniel Price, Ph.D. 
 
-<img src="README_files/figure-gfm/fa-icon-06079a58485ae36767994a058c85a886.svg" style="width:0.75em;height:1em" />Denver,
-Colorado
-  <img src="README_files/figure-gfm/fa-icon-e733a42f6a4b2d78ea8171364198a196.svg" style="width:1em;height:1em" />+1
-904 315 2486
-  <img src="README_files/figure-gfm/fa-icon-0f5169a595b4f8e0bd2acaa342cf7d19.svg" style="width:1em;height:1em" /><natbprice@gmail.com>
-  <img src="README_files/figure-gfm/fa-icon-db7c5eb77dacd1dad53f490b73362a28.svg" style="width:1.12em;height:1em" /><a href="https://natbprice.github.io">natbprice.github.io</a>  
+<img src="README_files/figure-gfm/fa-icon-06079a58485ae36767994a058c85a886.svg" style="width:0.75em;height:1em" />   
+Denver, Colorado
+   <img src="README_files/figure-gfm/fa-icon-e733a42f6a4b2d78ea8171364198a196.svg" style="width:1em;height:1em" />   
++1 904 315 2486
+   <img src="README_files/figure-gfm/fa-icon-0f5169a595b4f8e0bd2acaa342cf7d19.svg" style="width:1em;height:1em" />   
+<natbprice@gmail.com>
+   <img src="README_files/figure-gfm/fa-icon-db7c5eb77dacd1dad53f490b73362a28.svg" style="width:1.12em;height:1em" />   <a href="https://natbprice.github.io">natbprice.github.io</a>   
 <hr/>
 
 ## Experience
@@ -91,12 +92,12 @@ Colorado
 
 ## Publications
 
-<img src="README_files/figure-gfm/fa-icon-ba6f5f2818a1e4c57b85400a286bb74c.svg" style="width:0.88em;height:1em" />
-2 book chapters
-<img src="README_files/figure-gfm/fa-icon-4f8d2ca398441f7b13d3564be553e531.svg" style="width:1.25em;height:1em" />
-5 peer-reviewed journal publications
-<img src="README_files/figure-gfm/fa-icon-3f9f3cec08c1d05f18d88a9f86136719.svg" style="width:0.75em;height:1em" />
-5 conference papers  
+<img src="README_files/figure-gfm/fa-icon-ba6f5f2818a1e4c57b85400a286bb74c.svg" style="width:0.88em;height:1em" />   2
+book
+chapters   <img src="README_files/figure-gfm/fa-icon-4f8d2ca398441f7b13d3564be553e531.svg" style="width:1.25em;height:1em" />   5
+peer-reviewed journal
+publications   <img src="README_files/figure-gfm/fa-icon-3f9f3cec08c1d05f18d88a9f86136719.svg" style="width:0.75em;height:1em" />   5
+conference papers   
 
 Full List Available On Google Scholar:
 <https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en>

@@ -58,18 +58,18 @@ library(rmarkdown)
 ```{r, results='asis', eval = knitr::is_html_output()}
 cat("# ", metadata$name, "\n")
 fa("map-marker")
-cat(metadata$address, "&nbsp;&nbsp;")
+cat("&nbsp;&nbsp;&nbsp;", metadata$address, "&nbsp;&nbsp;&nbsp;")
 fa("phone")
-cat(metadata$phone, "&nbsp;&nbsp;")
+cat("&nbsp;&nbsp;&nbsp;", metadata$phone, "&nbsp;&nbsp;&nbsp;")
 fa("envelope")
-cat(metadata$email, "&nbsp;&nbsp;")
+cat("&nbsp;&nbsp;&nbsp;", metadata$email, "&nbsp;&nbsp;&nbsp;")
 fa("home")
-cat('<a href="https://',
+cat('&nbsp;&nbsp;&nbsp;<a href="https://',
   metadata$website,
   '">',
   metadata$website,
   "</a>",
-  "&nbsp;&nbsp;",
+  "&nbsp;&nbsp;&nbsp;",
   sep = ""
 )
 cat("<hr/>")
@@ -134,9 +134,16 @@ cat("<hr/>")
 *University of Florida*, Gainesville, Florida, US  | 2012
 
 ## Publications
-`r fa('book')` 2 book chapters \hspace{2 pt}
-`r fa('scroll')` 5 peer-reviewed journal publications \hspace{2 pt}
-`r fa('file-alt')` 5 conference papers \ 
+
+```{r, results = "asis"}
+fa('book')
+cat("&nbsp;&nbsp;&nbsp;2 book chapters&nbsp;&nbsp;&nbsp;")
+fa('scroll')
+cat("&nbsp;&nbsp;&nbsp;5 peer-reviewed journal publications&nbsp;&nbsp;&nbsp;")
+fa('file-alt')
+cat("&nbsp;&nbsp;&nbsp;5 conference papers&nbsp;&nbsp;&nbsp;")
+```
+
 
 Full List Available On Google Scholar: https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en
 
