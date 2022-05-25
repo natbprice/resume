@@ -1,0 +1,97 @@
+---
+title: "Nathaniel Price, Ph.D."
+bibliography: publications.bib
+nocite: |
+  @balesdent_advanced_2016, @chaudhuri_nasa_2015
+output:
+  pdf_document:
+      template: resume_template.tex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(fontawesome)
+```
+
+
+`r fa(name = 'map-marker-alt')` Denver, Colorado `r fa(name = 'phone')` +19043152486 `r fa(name = 'envelope')` natbprice\@gmail.com `r fa(name = 'home')` natbprice.github.io
+
+---
+
+## Experience
+
+**ICF**, Golden, Colorado, US \
+*Lead Data Scientist* | May 2022 - Present \
+*Senior Data Scientist* | May 2020 - May 2022 \
+*Data Scientist* | October 2019 - May 2020 \
+
+- Built Azure cloud computing/machine learning infrastructure from the ground up for low-cost, scalable analysis of billions of records of utility smart meter data
+- Researched, prototyped, and deployed machine learning models related to utility analytics (e.g., energy disaggregation, energy savings, EV detection)
+- Established cross-team Data Science Knowledge Share meetings to promote collaboration and information sharing
+- Assisted other teams in scaling data science processes by advising on best practices and providing technical assistance
+
+**University of Nebraska-Lincoln**, Lincoln, Nebraska, US \
+*Data Scientist* | September 2016 - October 2019
+
+- Designed, developed, and deployed open-source, web-based, data analysis application (SQL, R, Shiny) for analyzing repeat-purchase behavior (recruitment, retention, churn, reactivation) of Nebraska sportspersons
+- Mentored graduate students and facilitated data science research resulting in multiple journal publications, international conference presentations, and a book chapter
+
+**ONERA - The French Aerospace Lab**, Palaiseau, Île-de-France, France \
+*Ph.D. Student Researcher* | October 2014 - March 2016
+
+- As part of international joint-PhD collaboration between 2 universities (UF, EMSE) and ONERA aerospace lab, developed a novel method for optimal design under uncertainty that incorporated risk of future redesign into design optimization
+- Co-authored book chapter on advanced space vehicle design under uncertainty
+
+**University of Florida**, Gainesville, Florida, US \
+*Graduate Research Assistant* | August 2012 - July 2016
+
+- Integrated machine learning (e.g., Gaussian process) and optimization to design engineering systems considering uncertainty in future decision making process
+- Collaboratively developed optimization-based solution to The NASA Langley Multidisciplinary Uncertainty Quantification Challenge (2014)
+
+**University of Florida**, Gainesville, Florida, US \
+*Undergraduate Research Assistant* | September 2011 - August 2012 
+
+- Created parameterized biomechanical model in Python to understand interactions of patient variability and design changes on safety of Biomet rigid sternal fixation device
+- Awarded Biomedical Engineering Society (BMES) Design and Research Award and Knox T. Millsaps Outstanding Undergraduate Paper Award
+
+**SpaceX**, Cape Canaveral, Florida, US \
+*Launch Engineer Intern* | August 2010 - January 2011
+
+- Performed maintenance of launch vehicle ground systems
+- Ground crew team member during launch of SpaceX COTS Demo Flight 1
+
+## Education
+
+**Doctorate | Mechanical Engineering** \
+*University of Florida*, Gainesville, Florida, US | 2016  \
+*École des Mines de Saint-Étienne*, Saint-Étienne, Rhône-Alps, France | 2016
+
+**Graduate Certificate | Scientific Computing** \
+*University of Florida*, Gainesville, Florida, US  | 2014
+
+**Master of Science | Mechanical Engineering** \
+*University of Florida*, Gainesville, Florida, US | 2014
+
+**Bachelor of Science | Mechanical Engineering** \
+*University of Florida*, Gainesville, Florida, US  | 2012
+
+## Publications
+`r fa(name = "book")` 2 book chapters
+`r fa(name = "scroll")` 5 peer-reviewed journal publications
+`r fa(name = "file-alt")` 5 conference papers \
+
+Full List Available On Google Scholar: https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en
+
+**Select Publications:**
+
+<div id="refs"></div>
+
+## Data Science Skills
+**Cloud Computing:** Azure • AWS • high-performance computing (Azure Batch) • NoSQL (Azure Table/Blob, AWS S3) •
+containers (Docker, Azure ACI, Azure ACR) \
+**Communication:** presentations • dashboard design (Shiny) • data analysis reports (Rmarkdown, Jupyter) • data visualization (plotly, ggplot2, leaflet) • peer-reviewed publications (journal, book chapter, conference) \
+**Numerical Methods:** optimization (stochastic, genetic, multi-start) • differential equations \
+**Programming Languages:** R • Python • SQL • Matlab • C++ \
+**Software Development:** source control (Git, SVN) • agile development (Jira) • CI/CD (Azure DevOps) • automated testing \
+**Statistics:** machine learning • data analysis • surrogate models • cross-validation • uncertainty quantification • Monte
+Carlo simulation • experimental design • survey methodology \
