@@ -55,15 +55,24 @@ library(rmarkdown)
 \fancyfoot[L]{\textcolor[gray]{0.4}{Document compiled on `r Sys.Date()` (\href{https://www.github.com/natbprice/resume}{github.com/natbprice/resume})}}
 \pagenumbering{gobble}
 
-```{r, results='asis'}
-if(knitr::is_html_output() | interactive()) {
-  cat("# ", metadata$name, "\n")
-  cat("", fa("map-marker"), metadata$address, "&nbsp;&nbsp;")
-  cat(fa("phone"), metadata$phone, "&nbsp;&nbsp;")
-  cat(fa("envelope"), metadata$email, "&nbsp;&nbsp;")
-  cat(fa("home"), '<a href="https://', metadata$website, '">', metadata$website, "</a>", "&nbsp;&nbsp;", sep = "")
-  cat("<hr/>")
-}
+```{r, results='asis', eval = knitr::is_html_output()}
+cat("# ", metadata$name, "\n")
+fa("map-marker")
+cat(metadata$address, "&nbsp;&nbsp;")
+fa("phone")
+cat(metadata$phone, "&nbsp;&nbsp;")
+fa("envelope")
+cat(metadata$email, "&nbsp;&nbsp;")
+fa("home")
+cat('<a href="https://',
+  metadata$website,
+  '">',
+  metadata$website,
+  "</a>",
+  "&nbsp;&nbsp;",
+  sep = ""
+)
+cat("<hr/>")
 ```
 
 
