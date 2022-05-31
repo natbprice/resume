@@ -13,8 +13,8 @@ Denver, Colorado
 ## Experience
 
 **ICF**, Golden, Colorado, US  
-*Lead Data Scientist* \| May 2022 - Present  
-*Senior Data Scientist* \| May 2020 - May 2022  
+*Lead Data Scientist* \| March 2022 - Present  
+*Senior Data Scientist* \| May 2020 - March 2022  
 *Data Scientist* \| October 2019 - May 2020
 
 -   Built Azure cloud computing/machine learning infrastructure from the
