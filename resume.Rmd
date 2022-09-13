@@ -1,6 +1,6 @@
 ---
 name: Nathaniel Price, Ph.D.
-address: Denver, Colorado
+address: Washington, D.C.
 phone: +1 904 315 2486
 email: natbprice@gmail.com
 website: natbprice.github.io
@@ -78,7 +78,7 @@ cat("<hr/>")
 
 ## Experience
 
-**ICF**, Golden, Colorado, US \
+**ICF**, Golden, Colorado, US (Remote) \
 *Lead Data Scientist* | March 2022 - Present \
 *Senior Data Scientist* | May 2020 - March 2022 \
 *Data Scientist* | October 2019 - May 2020
