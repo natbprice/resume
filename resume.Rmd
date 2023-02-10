@@ -78,7 +78,7 @@ cat("<hr/>")
 
 ## Experience
 
-**ICF**, Golden, Colorado, US (Remote) \
+**ICF**, Reston, Virginia, US (Remote) \
 *Lead Data Scientist* | March 2022 - Present \
 *Senior Data Scientist* | May 2020 - March 2022 \
 *Data Scientist* | October 2019 - May 2020
@@ -133,6 +133,10 @@ cat("<hr/>")
 **Bachelor of Science | Mechanical Engineering** \
 *University of Florida*, Gainesville, Florida, US  | 2012
 
+## Professional Development
+
+- DeepLearning.AI TensorFlow Developer Professional Certificate (80 hours), Coursera, Credential ID [VDW7KD9SA2TM](https://coursera.org/verify/professional-cert/VDW7KD9SA2TM) (2023)
+  
 ## Publications
 
 ```{r, results = "asis"}
@@ -157,6 +161,5 @@ containers (Docker, Azure ACI, Azure ACR) \
 **Communication:** presentations • dashboard design (Shiny) • data analysis reports (Rmarkdown, Jupyter) • data visualization (plotly, ggplot2, leaflet) • peer-reviewed publications (journal, book chapter, conference) \
 **Numerical Methods:** optimization (stochastic, genetic, multi-start) • differential equations \
 **Programming Languages:** R • Python • SQL • Matlab • C++ \
-**Software Development:** source control (Git, SVN) • agile development (Jira) • CI/CD (Azure DevOps) • automated testing \
-**Statistics:** machine learning • data analysis • surrogate models • cross-validation • uncertainty quantification • Monte
-Carlo simulation • experimental design • survey methodology \
+**Software Development:** source control (Git, SVN) • agile development (Jira) • CI/CD (Azure DevOps) \
+**Statistics & Machine Learning:** deep learning (Tensorflow) • NLP • surrogate models • uncertainty quantification • Monte Carlo simulation • experimental design • survey methodology \

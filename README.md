@@ -1,67 +1,79 @@
 
+# Nathaniel Price, Ph.D. 
+
+<img
+src="README_files/figure-gfm/fa-icon-e14f39f52171e9cba8154737acb24799.svg"
+style="width:0.75em;height:1em" />    Washington, D.C.    <img
+src="README_files/figure-gfm/fa-icon-fc9104599277ccb91d4e70e2088fe75b.svg"
+style="width:1em;height:1em" />    +1 904 315 2486    <img
+src="README_files/figure-gfm/fa-icon-a7ff419e70980f9f1a65816048d94526.svg"
+style="width:1em;height:1em" />    <natbprice@gmail.com>    <img
+src="README_files/figure-gfm/fa-icon-48b1da2867ad7312ef1fde4a125efd4e.svg"
+style="width:1.12em;height:1em" />   <a href="https://natbprice.github.io">natbprice.github.io</a>   
+<hr/>
+
 ## Experience
 
-**ICF**, Golden, Colorado, US (Remote)  
+**ICF**, Reston, Virginia, US (Remote)  
 *Lead Data Scientist* \| March 2022 - Present  
 *Senior Data Scientist* \| May 2020 - March 2022  
 *Data Scientist* \| October 2019 - May 2020
 
--   Built Azure cloud computing/machine learning infrastructure from the
-    ground up for low-cost, scalable analysis of billions of records of
-    utility smart meter data
--   Researched, prototyped, and deployed machine learning models related
-    to utility analytics (e.g., energy disaggregation, energy savings,
-    EV detection)
--   Established cross-team Data Science Knowledge Share meetings to
-    promote collaboration and information sharing
--   Assisted other teams in scaling data science processes by advising
-    on best practices and providing technical assistance
+- Built Azure cloud computing/machine learning infrastructure from the
+  ground up for low-cost, scalable analysis of billions of records of
+  utility smart meter data
+- Researched, prototyped, and deployed machine learning models related
+  to utility analytics (e.g., energy disaggregation, energy savings, EV
+  detection)
+- Established cross-team Data Science Knowledge Share meetings to
+  promote collaboration and information sharing
+- Assisted other teams in scaling data science processes by advising on
+  best practices and providing technical assistance
 
 **University of Nebraska-Lincoln**, Lincoln, Nebraska, US  
 *Data Scientist* \| September 2016 - October 2019
 
--   Designed, developed, and deployed open-source, web-based, data
-    analysis application (SQL, R, Shiny) for analyzing repeat-purchase
-    behavior (recruitment, retention, churn, reactivation) of Nebraska
-    sportspersons
--   Mentored graduate students and facilitated data science research
-    resulting in multiple journal publications, international conference
-    presentations, and a book chapter
+- Designed, developed, and deployed open-source, web-based, data
+  analysis application (SQL, R, Shiny) for analyzing repeat-purchase
+  behavior (recruitment, retention, churn, reactivation) of Nebraska
+  sportspersons
+- Mentored graduate students and facilitated data science research
+  resulting in multiple journal publications, international conference
+  presentations, and a book chapter
 
 **University of Florida**, Gainesville, Florida, US  
 *Graduate Research Assistant* \| August 2012 - July 2016
 
--   Integrated machine learning (e.g., Gaussian process) and
-    optimization to design engineering systems considering uncertainty
-    in future decision making process
--   Collaboratively developed optimization-based solution to The NASA
-    Langley Multidisciplinary Uncertainty Quantification Challenge
-    (2014)
+- Integrated machine learning (e.g., Gaussian process) and optimization
+  to design engineering systems considering uncertainty in future
+  decision making process
+- Collaboratively developed optimization-based solution to The NASA
+  Langley Multidisciplinary Uncertainty Quantification Challenge (2014)
 
 **ONERA - The French Aerospace Lab**, Palaiseau, Île-de-France, France  
 *Ph.D. Student Researcher* \| October 2014 - March 2016
 
--   As part of international joint-PhD collaboration between 2
-    universities (UF, EMSE) and ONERA aerospace lab, developed a novel
-    method for optimal design under uncertainty that incorporated risk
-    of future redesign into design optimization
--   Co-authored book chapter on advanced space vehicle design under
-    uncertainty
+- As part of international joint-PhD collaboration between 2
+  universities (UF, EMSE) and ONERA aerospace lab, developed a novel
+  method for optimal design under uncertainty that incorporated risk of
+  future redesign into design optimization
+- Co-authored book chapter on advanced space vehicle design under
+  uncertainty
 
 **University of Florida**, Gainesville, Florida, US  
 *Undergraduate Research Assistant* \| September 2011 - August 2012
 
--   Created parameterized biomechanical model in Python to understand
-    interactions of patient variability and design changes on safety of
-    Biomet rigid sternal fixation device
--   Awarded Biomedical Engineering Society (BMES) Design and Research
-    Award and Knox T. Millsaps Outstanding Undergraduate Paper Award
+- Created parameterized biomechanical model in Python to understand
+  interactions of patient variability and design changes on safety of
+  Biomet rigid sternal fixation device
+- Awarded Biomedical Engineering Society (BMES) Design and Research
+  Award and Knox T. Millsaps Outstanding Undergraduate Paper Award
 
 **SpaceX**, Cape Canaveral, Florida, US  
 *Launch Engineer Intern* \| August 2010 - January 2011
 
--   Performed maintenance of launch vehicle ground systems
--   Ground crew team member during launch of SpaceX COTS Demo Flight 1
+- Performed maintenance of launch vehicle ground systems
+- Ground crew team member during launch of SpaceX COTS Demo Flight 1
 
 ## Education
 
@@ -79,19 +91,23 @@
 **Bachelor of Science \| Mechanical Engineering**  
 *University of Florida*, Gainesville, Florida, US \| 2012
 
+## Professional Development
+
+- DeepLearning.AI TensorFlow Developer Professional Certificate (80
+  hours), Coursera, Credential ID
+  [VDW7KD9SA2TM](https://coursera.org/verify/professional-cert/VDW7KD9SA2TM)
+  (2023)
+
 ## Publications
 
-    ## Warning: fontawesome does not support this output. Icon(s) will not show.
-
-   2 book chapters   
-
-    ## Warning: fontawesome does not support this output. Icon(s) will not show.
-
-   5 peer-reviewed journal publications   
-
-    ## Warning: fontawesome does not support this output. Icon(s) will not show.
-
-   5 conference papers   
+<img
+src="README_files/figure-gfm/fa-icon-5ea3361430ab42477e0145b37bf037cc.svg"
+style="width:0.88em;height:1em" />   2 book chapters   <img
+src="README_files/figure-gfm/fa-icon-a32c8471294266ceed38a8d3d266d74b.svg"
+style="width:1.12em;height:1em" />   5 peer-reviewed journal
+publications   <img
+src="README_files/figure-gfm/fa-icon-72f798a57a25e6b9da18e2e310189a68.svg"
+style="width:0.75em;height:1em" />   5 conference papers   
 
 Full List Available On Google Scholar:
 <https://scholar.google.com/citations?user=rXaKU0EAAAAJ&hl=en>
@@ -146,7 +162,7 @@ conference)
 differential equations  
 **Programming Languages:** R • Python • SQL • Matlab • C++  
 **Software Development:** source control (Git, SVN) • agile development
-(Jira) • CI/CD (Azure DevOps) • automated testing  
-**Statistics:** machine learning • data analysis • surrogate models •
-cross-validation • uncertainty quantification • Monte Carlo simulation •
+(Jira) • CI/CD (Azure DevOps)  
+**Statistics & Machine Learning:** deep learning (Tensorflow) • NLP •
+surrogate models • uncertainty quantification • Monte Carlo simulation •
 experimental design • survey methodology  
